@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+body{
+    background: #898aed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.hello{
+    width:450px;
+    height:400px;
+    background-color: #ffffff;;
+}
+#title{
+    justify-content:center;
+    display: center;
+    margin-left: 160px;
+}
+#start{
+    position:relative;
+    height:50px;
+    width:150px;
+    margin-left: 160px;
+    color:white;
+    background-color:#0000ff;
+
+    border:1px solid : #898aedblack;
+}
+#create{
+    align-items: center;
+    justify-content:center;
+    margin-left: 160px;
+    margin-top:200px;
+    display: center;
+
+
+}
+
